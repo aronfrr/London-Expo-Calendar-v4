@@ -1,0 +1,7 @@
+{
+  "name": "London Expo Calendar",
+  "description": "An interactive, AI-powered calendar for discovering major trade shows in London across key industries like Tech, Finance, Pharma, and Defence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
